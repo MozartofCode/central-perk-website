@@ -1,0 +1,40 @@
+  
+  .info {
+    background-color: #C19A6B;
+    height: 13cm;
+    width: 18cm;
+    margin-top: 1.5cm;
+    margin-right: 1.5cm;
+    float: right;
+  }
+  
+  .info header {
+    font-size: 2cm;
+    text-align: center;
+    color:black;
+  }
+  
+  .info p {
+  
+    margin-top: 1cm;
+    vertical-align: middle;
+    text-align: left;
+    color:bisque;
+    font-size: 1.3cm;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  /*Place of the photo*/
+  
+  .photo .gunther{
+      height: 13cm;
+      width: 18cm;
+      float: left;
+      margin-left: 1.5cm;
+      margin-top: 1.5cm;
+  }
+  
+  .topnav .navnav {
+    margin-left: 6cm;
+  }
+  

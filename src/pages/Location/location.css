@@ -1,0 +1,33 @@
+.location-par {
+    float: right;
+    margin-right: 4cm;
+}
+
+.location-par .parr {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1cm;
+    color: black;
+    font-weight: bold;
+    margin-top: 5cm;
+}
+
+.location-par .parr2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1cm;
+    color: black;
+    font-weight: bold;
+    margin-top: 2cm;    
+}
+
+.screenshot {
+    margin-top: 2cm;
+    float: left;
+    margin-left: 4cm;
+}
+
+.screenshot .map {
+    width: 15cm;
+    height: 15cm;
+}

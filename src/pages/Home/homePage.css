@@ -1,0 +1,51 @@
+/*The color and the place of the quote*/
+
+
+.quote {
+  background-color: #C19A6B;
+  height: 13cm;
+  width: 18cm;
+  margin-top: 1.5cm;
+  margin-left: 1.5cm;
+}
+
+
+
+.quote p {
+
+  margin-top: 1cm;
+  vertical-align: middle;
+  text-align: center;
+  color:bisque;
+  font-size: 1.5cm;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Place of the photo*/
+
+.photo .friends{
+    height: 13cm;
+    width: 18cm;
+    float: right;
+    margin-right: 1.5cm;
+    margin-top: 1.5cm;
+}
+
+
+
+/*Navigation bar styles*/
+.topnav {
+    background-color:  #8A624A;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav .navnav {
+    margin-left: 8cm;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }

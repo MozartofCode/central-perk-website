@@ -1,0 +1,31 @@
+  /*The color and the place of the quote*/
+ 
+  .facts {
+    background-color: #C19A6B;
+    height: 13cm;
+    width: 18cm;
+    margin-top: 1.5cm;
+    margin-left: 11cm;
+  }
+  
+  
+  .facts header {
+    margin-top: 1cm;
+    vertical-align: middle;
+    text-align: center;
+    color: black;
+    font-size: 1.5cm;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .facts p {
+    color: bisque;
+    text-align: left;
+    font-size: 0.9cm;
+    margin-left: 1cm;
+  }
+  
+  .topnav .navnav {
+    margin-left: 8cm;
+  }
+  

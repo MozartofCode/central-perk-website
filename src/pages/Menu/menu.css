@@ -1,0 +1,91 @@
+/*The title*/
+
+.menu-title {
+    margin-top: 1cm;
+    text-align: center;
+    font-weight: bold;
+    color:black;
+    font-size: 1cm;
+}
+
+
+/* Search button*/
+
+.search {
+    margin-top: 0.5cm;
+    margin-left: 14.5cm;
+}
+
+.search .item {
+    font-size: 0.5cm;
+    font-style: italic;
+    text-align: left;
+    height: 1cm;
+    width: 11cm;
+}
+
+
+/*CSS for the images*/
+
+.coffee {
+    margin-left: 9cm;
+    margin-top: 0.5cm;
+    float: left;
+}
+
+.coffee .c {
+    height: 6cm;
+    width: 6cm;
+}
+
+
+.tea {
+    margin-right: 8.5cm;
+    margin-top: 0.5cm;
+    float: right;
+}
+
+.tea .t {
+    height: 6cm;
+    width: 6cm;
+}
+
+
+.cupcake {
+    margin-left: 9cm;
+    margin-top: 0.5cm;
+    float: left;
+}
+
+.cupcake .cup {
+    height: 6cm;
+    width: 6cm;
+}
+
+
+.cheesecake {
+    margin-right: 8.5cm;
+    margin-top: 0.5cm;
+    float: right;
+
+}
+
+.cheesecake .cheese {
+    height: 6cm;
+    width: 6cm;
+}
+
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 4cm;
+  }
+
+  .topnav .navnav {
+    margin-left: 6cm;
+  }
